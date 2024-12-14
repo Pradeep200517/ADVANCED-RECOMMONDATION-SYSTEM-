@@ -1,2 +1,1 @@
-# ADVANCED-RECOMMONDATION-SYSTEM-
-Managing and Presenting Personalized Suggestions.
+This project implements a dynamic recommendation system in C that allows users to search for items based on a given keyword. The system searches through an array of items and provides recommendations based on matches in both the item titles and categories. The goal is to create a user-friendly and efficient recommendation system using basic C programming techniques.
